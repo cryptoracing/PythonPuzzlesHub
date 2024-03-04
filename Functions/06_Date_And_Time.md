@@ -11,4 +11,4 @@ Input:
 - Seconds: **45**
 
 Output:
-- Total Seconds: **186345**
+- Total Seconds: **192645**

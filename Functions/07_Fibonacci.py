@@ -7,7 +7,7 @@ def generate_fibonacci(n):
 
     return fibonacci_sequence[:n]
 
-def main():
+def main() -> object:
     n = int(input("Number of Terms: "))
     fibonacci_sequence = generate_fibonacci(n)
     print("Fibonacci Sequence:", fibonacci_sequence)
